@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:13 +0800] "GET / HTTP/1.1" 200 57 http-bio-80-exec-2 1
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:13 +0800] "GET / HTTP/1.1" 200 57 http-bio-80-exec-1 674
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:13 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-80-exec-3 16
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:19 +0800] "GET /pages/books.html HTTP/1.1" 200 11071 http-bio-80-exec-5 19
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:19 +0800] "GET /plugins/elementui/index.css HTTP/1.1" 200 198714 http-bio-80-exec-6 6
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:19 +0800] "GET /css/style.css HTTP/1.1" 200 11169 http-bio-80-exec-7 5
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:19 +0800] "GET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31008 http-bio-80-exec-4 7
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:19 +0800] "GET /plugins/elementui/index.js HTTP/1.1" 200 494276 http-bio-80-exec-10 3
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:19 +0800] "GET /js/vue.js HTTP/1.1" 200 311194 http-bio-80-exec-8 5
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:19 +0800] "GET /js/axios-0.18.0.js HTTP/1.1" 200 12956 http-bio-80-exec-2 4
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:19 +0800] "GET /js/jquery.min.js HTTP/1.1" 200 86663 http-bio-80-exec-9 5
+0:0:0:0:0:0:0:1 - - [19/Dec/2022:10:52:20 +0800] "GET /books HTTP/1.1" 200 2341 http-bio-80-exec-9 759
