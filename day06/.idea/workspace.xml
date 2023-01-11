@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bb9c301-c81d-471a-8bc2-ef5054e98140" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/maven_01_parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/config/MyBatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/config/ServletConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/config/SpringMvcSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/controller/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/controller/ProjectExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/controller/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/exception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/exception/SystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/java/com/itheima/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/js/axios-0.18.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/pages/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/elementui/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/elementui/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/elementui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_02_ssm/src/test/java/com/itheima/service/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_03_pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_03_pojo/src/main/java/com/itheima/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_03_pojo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_03_pojo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_04_dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_04_dao/src/main/java/com/itheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_04_dao/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_04_dao/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04/springmvc_01_quickstart/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/springmvc_01_quickstart/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04/springmvc_01_quickstart/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/springmvc_01_quickstart/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04/springmvc_01_quickstart/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/springmvc_01_quickstart/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K9yZo3GpR0XJlfmAgKWOrdqhru" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/code/Spring/day06/maven_01_parent",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\Spring\day06\maven_01_parent" />
+      <recent name="D:\code\Spring\day06\maven_04_dao" />
+      <recent name="D:\code\Spring\day06\maven_03_pojo" />
+      <recent name="D:\code\Spring\day06\maven_02_ssm\src\test" />
+      <recent name="D:\code\Spring\day06\maven_02_ssm\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="day06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="day06" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6bb9c301-c81d-471a-8bc2-ef5054e98140" name="变更" comment="" />
+      <created>1673401152257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673401152257</updated>
+      <workItem from="1673401154008" duration="1736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
