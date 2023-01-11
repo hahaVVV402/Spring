@@ -13,6 +13,9 @@
     <file type="web" url="file://$PROJECT_DIR$/../../day05/springmvc_08_ssm" />
     <file type="web" url="file://$PROJECT_DIR$/../../day05/springmvc_09_result" />
     <file type="web" url="file://$PROJECT_DIR$/../../day05/springmvc_10_exception" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day05/springmvc_11_page" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day05/springmvc_12_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day06/maven_01_parent" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -28,6 +31,8 @@
         <option value="$PROJECT_DIR$/../../day05/springmvc_08_ssm/pom.xml" />
         <option value="$PROJECT_DIR$/../../day05/springmvc_09_result/pom.xml" />
         <option value="$PROJECT_DIR$/../../day05/springmvc_10_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day05/springmvc_11_page/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day05/springmvc_12_interceptor/pom.xml" />
       </list>
     </option>
   </component>
